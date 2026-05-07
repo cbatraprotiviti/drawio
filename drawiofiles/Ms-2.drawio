@@ -1,9 +1,24 @@
 <mxfile host="app.diagrams.net">
   <diagram name="Page-1" id="6ajV-L7wMpDcNvry7F0Z">
-    <mxGraphModel>
+    <mxGraphModel dx="1414" dy="743" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1920" pageHeight="1200" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="D7O5abLP2HzIZTyNx9zO-2" parent="1" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://icons.diagrams.net/icon-cache1/Education_and_School_Glyph_24_px-2540/Instructor_professor_teacher_teaching_tutor_-772.svg" value="" vertex="1">
+          <mxGeometry height="60" width="60" x="110" y="380" as="geometry" />
+        </mxCell>
+        <mxCell id="D7O5abLP2HzIZTyNx9zO-3" parent="1" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/preview/Static_Apps.svg;" value="" vertex="1">
+          <mxGeometry height="54" width="68" x="310" y="350" as="geometry" />
+        </mxCell>
+        <mxCell id="D7O5abLP2HzIZTyNx9zO-5" parent="1" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/app_services/API_Management_Services.svg;" value="" vertex="1">
+          <mxGeometry height="47" width="50.92" x="480" y="350" as="geometry" />
+        </mxCell>
+        <mxCell id="D7O5abLP2HzIZTyNx9zO-6" parent="1" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;strokeColor=none;fillColor=#00BEF2;shape=mxgraph.azure.sql_database;" value="" vertex="1">
+          <mxGeometry height="50" width="47.5" x="596" y="440" as="geometry" />
+        </mxCell>
+        <mxCell id="D7O5abLP2HzIZTyNx9zO-7" parent="1" style="image;sketch=0;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/mscae/Event_Grid_Topics.svg;" value="" vertex="1">
+          <mxGeometry height="50" width="50" x="710" y="348.5" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
