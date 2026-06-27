@@ -5,7 +5,10 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="sSm9RdXrjRkMhCrAYPp6-53" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;gradientColor=light-dark(#fafafa, #ededed);" value="" vertex="1">
-          <mxGeometry height="622" width="950" x="90" y="8" as="geometry" />
+          <mxGeometry height="652" width="950" x="90" y="8" as="geometry" />
+        </mxCell>
+        <mxCell id="ZHcoTIdElfMrz06RnHVd-7" parent="1" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;fillColor=#dae8fc;strokeColor=#6c8ebf;gradientColor=light-dark(#faf4f4, #ededed);" value="" vertex="1">
+          <mxGeometry height="106" width="291.5" x="392.44" y="533" as="geometry" />
         </mxCell>
         <mxCell id="sSm9RdXrjRkMhCrAYPp6-45" parent="1" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;fillColor=#dae8fc;strokeColor=#6c8ebf;gradientColor=light-dark(#f8f7f7, #ededed);" value="" vertex="1">
           <mxGeometry height="170" width="400" x="340" y="30" as="geometry" />
@@ -93,10 +96,10 @@
         <mxCell id="sSm9RdXrjRkMhCrAYPp6-31" parent="1" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/other/Worker_Container_App.svg;" value="" vertex="1">
           <mxGeometry height="66" width="68" x="604" y="50" as="geometry" />
         </mxCell>
-        <mxCell id="sSm9RdXrjRkMhCrAYPp6-32" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Container apps for Vigilis Backend" vertex="1">
+        <mxCell id="sSm9RdXrjRkMhCrAYPp6-32" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Container apps for Backend" vertex="1">
           <mxGeometry height="30" width="150" x="563" y="134" as="geometry" />
         </mxCell>
-        <mxCell id="sSm9RdXrjRkMhCrAYPp6-33" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Static Web apps for Vigilis Fronend" vertex="1">
+        <mxCell id="sSm9RdXrjRkMhCrAYPp6-33" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Static Web apps for Frontend" vertex="1">
           <mxGeometry height="30" width="130" x="380" y="124" as="geometry" />
         </mxCell>
         <mxCell id="sSm9RdXrjRkMhCrAYPp6-38" edge="1" parent="1" source="sSm9RdXrjRkMhCrAYPp6-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.572;entryY=0.935;entryDx=0;entryDy=0;entryPerimeter=0;" target="sSm9RdXrjRkMhCrAYPp6-42">
@@ -132,10 +135,34 @@
           <mxGeometry height="57.8" width="192.67" x="115.5" y="54.1" as="geometry" />
         </mxCell>
         <mxCell id="sSm9RdXrjRkMhCrAYPp6-63" parent="1" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/networking/Virtual_Networks.svg;" value="" vertex="1">
-          <mxGeometry height="40" width="67" x="418" y="566" as="geometry" />
+          <mxGeometry height="40" width="67" x="402.83" y="550" as="geometry" />
         </mxCell>
         <mxCell id="sSm9RdXrjRkMhCrAYPp6-64" parent="1" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/devops/Application_Insights.svg;" value="" vertex="1">
-          <mxGeometry height="63" width="44" x="510" y="554.5" as="geometry" />
+          <mxGeometry height="48.68" width="34" x="492" y="541.32" as="geometry" />
+        </mxCell>
+        <mxCell id="ZHcoTIdElfMrz06RnHVd-1" parent="1" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/security/Key_Vaults.svg;fontFamily=Inter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DInter;textShadow=0;" value="" vertex="1">
+          <mxGeometry height="48.68" width="48.68" x="549" y="541.32" as="geometry" />
+        </mxCell>
+        <mxCell id="ZHcoTIdElfMrz06RnHVd-2" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontFamily=Inter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DInter;textShadow=0;fontSize=12;" value="Vnet" vertex="1">
+          <mxGeometry height="30" width="60" x="406.33" y="589.9999999999999" as="geometry" />
+        </mxCell>
+        <mxCell id="ZHcoTIdElfMrz06RnHVd-3" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontFamily=Inter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DInter;textShadow=0;fontSize=12;" value="Application Insights" vertex="1">
+          <mxGeometry height="30" width="60" x="478.99999999999994" y="596" as="geometry" />
+        </mxCell>
+        <mxCell id="ZHcoTIdElfMrz06RnHVd-4" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontFamily=Inter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DInter;textShadow=0;fontSize=12;" value="Key Vault" vertex="1">
+          <mxGeometry height="30" width="60" x="546" y="589.9999999999999" as="geometry" />
+        </mxCell>
+        <mxCell id="ZHcoTIdElfMrz06RnHVd-5" parent="1" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/networking/Web_Application_Firewall_Policies_WAF.svg;" value="" vertex="1">
+          <mxGeometry height="43" width="43" x="623.94" y="541.32" as="geometry" />
+        </mxCell>
+        <mxCell id="ZHcoTIdElfMrz06RnHVd-6" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="WAF" vertex="1">
+          <mxGeometry height="30" width="60" x="623.9399999999999" y="589.9999999999999" as="geometry" />
+        </mxCell>
+        <mxCell id="ZHcoTIdElfMrz06RnHVd-9" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Containers pulls Jobs from Queue" vertex="1">
+          <mxGeometry height="30" width="150" x="560" y="420" as="geometry" />
+        </mxCell>
+        <mxCell id="ZHcoTIdElfMrz06RnHVd-10" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="API Push Jobs&amp;nbsp; to Queue" vertex="1">
+          <mxGeometry height="30" width="120" x="349.83000000000004" y="420" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
